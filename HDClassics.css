@@ -994,7 +994,7 @@ td.bottom > table[width="500"]:first-of-type td a:active {
 }
 #torrent-list a.fl::after, #torrent-list a[title^="25%"]::after, #torrent-list a[title^="50%"]::after {
   float: right;
-  font-size: 11px;
+  font-size: 10px;
   width: 34px;
   text-align: center;
   pointer-events: none;
